@@ -1,0 +1,13 @@
+name: oplist
+main: roi611\oplist\Main
+version: 1.0.0
+api: 3.0.0
+load: POSTWORLD
+author: roi611
+description: oplistコマンドを追加します
+website: https://github.com/roi611/oplist
+
+commands: 
+  oplist:
+     description: oplistを表示します
+     usage: /oplist 
